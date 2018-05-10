@@ -19,10 +19,6 @@ The 24v solenoid -It was actually 24v solenoid! Not 12v as it is shown on the pi
 
 ## Component Parts
 
-From what pieces did you build your project?
-
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
-
 <p align="center">
   <img src="IMG_3840.JPG"/>
 </p>
@@ -36,8 +32,6 @@ For input, I used a color sensor TCS230 and a solenoid for output. To connect th
 I didn't know that little solenoid needs that much of amount of power - 24v. It was my fault that didn't do research a lot about all the electronics how they are connected each other. Eventually, I could approach how to connect the solenoid and the color sensor each other, but couldn't figure out what other output I could use or where to find to supply that much of power for the solenoid.
 
 ## Timeline
-
-What did you do in each of the past five weeks
 
 <p>- Week 1: Thought about final project.</p>
 <p>- Week 2: Finished final project proposal and ordered electronic parts which are Adafruit color sensor and magnetic doorlock. </p>
