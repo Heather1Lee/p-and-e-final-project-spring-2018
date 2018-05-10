@@ -5,6 +5,10 @@
 
 ## Summary
 
+<p align="center">
+  <img src="IMG_3839.JPG" width="350"/>
+</p>
+
 <p> 
 For input, I used a color sensor TCS230 and a solenoid for output. To connect them together, I used Arduino Uno from Sparkfun. As it is shown on the picture, There are total 3 main boxes made out of foamcore. Each box needs each proper key or method to unlock the doors. By unlocking the first and second boxes, you can collect total 3 mini cubes which the inside of them is filled with 3 different color papers - red, green and blue. If you put the mini cubes on the color sensor in a right sequence, the solenoid will be unlocked and the door will be opened too. Eventually, you'll be able to get the real spam.
 </p>
@@ -19,6 +23,10 @@ From what pieces did you build your project?
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
+<p align="center">
+  <img src="IMG_3840.JPG" width="350"/>
+</p>
+
 <p> 
 -
 </p>
@@ -31,16 +39,22 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 What did you do in each of the past five weeks
 
-- Week 1: Thought about final project
-- Week 2: Finished final project proposal and ordered electronic parts  
-- Week 3: Electronic parts delivery delayed, and started making a diagram
-- Week 4: Changed the plan to use TCS230 color sensor and ordered the sensor again. 
-- Week 5: Presented!
+<p>- Week 1: Thought about final project.</p>
+<p>- Week 2: Finished final project proposal and ordered electronic parts which are Adafruit color sensor and magnetic doorlock. </p>
+<p>- Week 3: Electronic parts delivery delayed, and started making a diagram. </p>
+<p>- Week 4: Changed the plan to use TCS230 color sensor and 24v solenoid and ordered the sensor again. </p>
+<p>- Week 5: Presented!</p>
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+<p>The link to view the video of final project: </p>
+<p>https://www.dropbox.com/sh/z78jsofmnqo9i56/AACNtv7Dw6Blin-_NXiC7DKXa?dl=0&preview=IMG_1426.m4v </p>
+
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+<p>How to use TCS230 color sensor: </p>
+<p>https://howtomechatronics.com/tutorials/arduino/arduino-color-sensing-tutorial-tcs230-tcs3200-color-sensor/ </p>
+
+<p>How to control 24v solenoid with Arduino</p>
+<p>http://www.instructables.com/id/Controlling-solenoids-with-arduino/</p>
