@@ -6,7 +6,7 @@
 ## Summary
 
 <p align="center">
-  <img src="IMG_3839.JPG" width="350"/>
+  <img src="IMG_3839.JPG"/>
 </p>
 
 <p> 
@@ -24,7 +24,7 @@ From what pieces did you build your project?
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
 <p align="center">
-  <img src="IMG_3840.JPG" width="350"/>
+  <img src="IMG_3840.JPG"/>
 </p>
 
 <p> 
