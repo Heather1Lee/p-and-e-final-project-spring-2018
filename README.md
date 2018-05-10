@@ -14,7 +14,7 @@ For input, I used a color sensor TCS230 and a solenoid for output. To connect th
 </p>
 
 <p> 
-The 24v solenoid was the only solenoid in the Hybrid Lab. I couldn't find another solenoid that requires lower power. In other words, it was challenging to me to give proper amount of power to the solenoid. I couldn't figure out how to connect the solenoid with the color sensor. 
+The 24v solenoid -It was actually 24v solenoid! Not 12v as it is shown on the picture- was the only solenoid in the Hybrid Lab. I couldn't find another solenoid that requires lower power. In other words, it was challenging to me to give proper amount of power to the solenoid. I couldn't figure out how to connect the solenoid with the color sensor. 
 </p>
 
 ## Component Parts
@@ -28,12 +28,12 @@ Include what types of inputs/outputs/data it will use, and a block diagram showi
 </p>
 
 <p> 
--
+For input, I used a color sensor TCS230 and a solenoid for output. To connect them together, I used Arduino Uno from Sparkfun. As you can see on the picture, to control the 24v power (It was actually 24v solenoid!), I also used TIP120 transistor, 1k ohm resistor, and diode additionally. The color sensor worked well to detect each red, green, and blue colors' frequencies but it was hard to find proper amount of power to fulfill 24v. Code for this project was also well prepared. I planned to use if statement to detect red, green, blue color frequencies in the sequence - RGB - to give a knowledge what is the primary color in light. Eventually, the solenoid will be locked and unlocked as it is HIGH or LOW when the if statement becomes true.
 </p>
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+I didn't know that little solenoid needs that much of amount of power - 24v. It was my fault that didn't do research a lot about all the electronics how they are connected each other. Eventually, I could approach how to connect the solenoid and the color sensor each other, but couldn't figure out what other output I could use or where to find to supply that much of power for the solenoid.
 
 ## Timeline
 
@@ -41,7 +41,7 @@ What did you do in each of the past five weeks
 
 <p>- Week 1: Thought about final project.</p>
 <p>- Week 2: Finished final project proposal and ordered electronic parts which are Adafruit color sensor and magnetic doorlock. </p>
-<p>- Week 3: Electronic parts delivery delayed, and started making a diagram. </p>
+<p>- Week 3: Electronic parts delivery was delayed, and started making a diagram. </p>
 <p>- Week 4: Changed the plan to use TCS230 color sensor and 24v solenoid and ordered the sensor again. </p>
 <p>- Week 5: Presented!</p>
 
